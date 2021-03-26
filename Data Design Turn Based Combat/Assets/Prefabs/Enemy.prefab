@@ -48,7 +48,7 @@ MonoBehaviour:
   damage: 3
   healAmount: 10
   critModifier: 0
-  critAmount: 2
+  critAmount: 0
   maxHP: 200
   currentHP: 200
 --- !u!1 &8971865145009564062
